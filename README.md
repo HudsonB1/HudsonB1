@@ -1,6 +1,10 @@
 # Hudson Baroni :computer:
 
 ## Olá! 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudson-baroni/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hudson.x73)
+[![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/portuguese/HudsonB1)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/cereteza/)
 
 Sou Hudson Baroni, um entusiasta da tecnologia em busca de oportunidades como desenvolvedor.
 
@@ -19,7 +23,7 @@ Sou Hudson Baroni, um entusiasta da tecnologia em busca de oportunidades como de
 
 ## Projetos Destacados
 
-Aqui estão alguns projetos nos quais trabalhei e que me orgulho:
+Aqui estão alguns projetos nos quais trabalhei:
 
 - [Projeto Chess System](https://github.com/HudsonB1/project-chess-system): Desenvolvi um projeto de um jogo de xadrez utilizando a linguagem Java. O jogo oferece uma interface gráfica intuitiva e permite que os jogadores se enfrentem em partidas com todas as regras do jogo.
 
@@ -28,7 +32,5 @@ Aqui estão alguns projetos nos quais trabalhei e que me orgulho:
 ## Como me encontrar
 
 - :mailbox: Fique à vontade para entrar em contato comigo por e-mail: hudsonbarni@gmail.com
-- :briefcase: Confira meu perfil no LinkedIn: [Hudson Baroni](https://www.linkedin.com/in/hudson-baroni/)
-- :video_game: Vamos jogar juntos no Steam: [hBx73](https://steamcommunity.com/id/cereteza/)
 
 Estou sempre aberto a novas oportunidades e colaborações emocionantes na área de desenvolvimento. Não hesite em entrar em contato comigo para discutir projetos interessantes ou simplesmente trocar ideias sobre tecnologia.
